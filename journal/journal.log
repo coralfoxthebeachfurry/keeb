@@ -1,7 +1,10 @@
 All timestamps are recorded in GMT +08(Malaysia time).
 [2026-08-02, 1:51 am]
 Finished making the first part of the keyboard, next up are numpads and some other stuff(wiring qwq). Copy pasted the thing so
-thats why the bottom part is filled with stuff instead of one continuous key for space, learned more on how to use KiCAD doring this.
+that's why the bottom part is filled with stuff instead of one continuous key for space, learned more on how to use KiCAD during this.
 [2026-08-02, 2:55 am]
 Finished the whole layout! Numpad, wiring, all of the other keys are finally finished. It as a pain to wire it since I keep misclicking
 and placing at the wrong part qwq. Anyways, I'm tired so imma hit the hay.
+[2026-08-02, 12:57 pm]
+Just realized I've drawn every line by hand instead of usin gnet labels... Man this is getting janky. Meh whatever only the schematic
+might be a bit unreadable... well time to wire up the matrix and some other stuff before jumping into PCB
