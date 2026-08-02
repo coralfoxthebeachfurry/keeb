@@ -12,3 +12,7 @@ might be a bit unreadable... well time to wire up the matrix and some other stuf
 I'm getting sloppy, even though this is still the schematics... Summary of what I'm doing(still not finished), I'm adding a IO extender
 as my matrix and other additional stuff that I wanted exceeds the amount of pins on the Pico, thinking of changing micorcontroller if
 this is not feasible enough. For now, I need to finish the schematics and get onto PCB. 
+[2026-08-02, 5:18 pm]
+I'M DONE WITH SCHEMATICS time to get my hands dirty with PCB... Recap of what I've learned so far, I learned how to use an IO extender,
+fixed shit ton of errors that I didn't even know exists(thx deepseek for guiding me on this one) and yeah that's it for now. Imma do
+the PCB now
