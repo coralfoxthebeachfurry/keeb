@@ -6,5 +6,9 @@ that's why the bottom part is filled with stuff instead of one continuous key fo
 Finished the whole layout! Numpad, wiring, all of the other keys are finally finished. It as a pain to wire it since I keep misclicking
 and placing at the wrong part qwq. Anyways, I'm tired so imma hit the hay.
 [2026-08-02, 12:57 pm]
-Just realized I've drawn every line by hand instead of usin gnet labels... Man this is getting janky. Meh whatever only the schematic
+Just realized I've drawn every line by hand instead of using net labels... Man this is getting janky. Meh whatever only the schematic
 might be a bit unreadable... well time to wire up the matrix and some other stuff before jumping into PCB
+[2026-08-02, 3:30 pm]
+I'm getting sloppy, even though this is still the schematics... Summary of what I'm doing(still not finished), I'm adding a IO extender
+as my matrix and other additional stuff that I wanted exceeds the amount of pins on the Pico, thinking of changing micorcontroller if
+this is not feasible enough. For now, I need to finish the schematics and get onto PCB. 
